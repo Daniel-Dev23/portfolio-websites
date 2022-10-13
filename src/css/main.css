@@ -1,0 +1,15 @@
+:root {
+    --color-a: #25262F;
+    --color-b: #FEFDFD;
+    --color-c: #FEB601;
+}
+
+.main-container {
+    min-width: inherit;
+    min-height: inherit;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
